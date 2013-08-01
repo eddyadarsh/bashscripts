@@ -1,5 +1,4 @@
 #!/bin/bash
-# Script for checking Replication Status in Mysql Circular replication in SG1,EV1 & IR1 
 # by Adarsh Sharma on 12-10-2012
 
 status=0
