@@ -6,10 +6,10 @@ status=0
 
 BOX=`hostname -f`
 
-critical_emails="dba-alerts@inmobi.com Noc-Alert@inmobi.com appops-alerts@inmobi.com" #multiple emails space separated
+critical_emails="app@app.com aa@ad.com" #multiple emails space separated
 
-warning_emails="dba-alerts@inmobi.com"
-#warning_emails="adarsh.sharma@inmobi.com"
+warning_emails="afsd@sd.com"
+#warning_emails="afsd@sdfjk.com"
 DownSubject="Replication status - Down"
 GoodSubject="Replication status - Good"
 
